@@ -1,0 +1,7 @@
+{
+  "name": "习之平面三角洲",
+  "description": "一款深受《三角洲行动》启发的硬核上帝视角提取射击游戏。选择你的兵种，在沙漠废墟中搜刮物资，夺取曼德尔砖，并在毒圈收缩前撤离。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
